@@ -2,3 +2,4 @@ test git status
 test delect file.
 test branch ability.
 creating a new branch.
+creating a new branch is quick & simple.
